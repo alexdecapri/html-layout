@@ -1,0 +1,45 @@
+body {
+	width: 100%;
+}
+
+.one {
+	background-color: #3399ff;
+	width: 33.33%;
+	height: 100%;
+	float: left;
+
+}
+
+.two {
+	background-color: #33ffcc;
+	width: 33.33%;
+	height: 100%;
+	float: left;
+}
+
+.three {
+	background-color: #99ff33;
+	width: 33.34%;
+	height: 100%;
+	display: inline-block;
+	position: relative;
+	
+	
+}
+
+.image {
+	background-color: red;
+	height: 200px;
+	width:100%;
+	position: absolute;
+	bottom: 0;
+}
+
+p {
+	color: white;
+	font-family: Verdana;
+	text-align: center;
+	margin-top: 85px;
+	font-size: 25px;
+
+}
