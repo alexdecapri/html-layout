@@ -4,16 +4,16 @@ html, body {
 }
 
 body {
-	background-color: #BFC1CA;
+	background-color: #D8D8D8;
 }
 
 .top {
 	height: 15%;
-	background-color: gray;
+	background-color: #444444;
 }
 
 .main {
-	background-color: white;
+	background-color: #EFEFEF;
 	height: 90%;
 	width: 80%;
 	margin-left: 10%;
@@ -21,7 +21,7 @@ body {
 }
 
 .footer {
-	background-color: black;
+	background-color: #222222;
 	height: 10%;
 	width: 80%;
 	clear: both;
