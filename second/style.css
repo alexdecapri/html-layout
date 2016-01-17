@@ -1,47 +1,50 @@
-body {
+html, body {
 	width: 100%;
+	margin: 0;
+	height: 100%;
 }
 
 .one {
-	background-color: #3399ff;
+	background-color: #4A90E2;
 	width: 33.33%;
 	height: 100%;
 	float: left;
-
+	position: relative;
 }
 
 .two {
-	background-color: #33ffcc;
+	background-color: #50E3C2;
 	width: 33.33%;
 	height: 100%;
 	float: left;
+	position: relative;
 }
 
 .three {
-	background-color: #99ff33;
+	background-color: #B8E986;
 	width: 33.34%;
 	height: 100%;
-	display: inline-block;
 	position: relative;
-	/*float: left;8?
+	float: left;
 	
 	
 }
 
 .image {
-	background-color: red;
+	background-color: #D0021B;
 	height: 200px;
 	width:100%;
 	position: absolute;
+	float: right;
 	bottom: 0;
-	/*float: right;*/
 }
 
 p {
 	color: white;
-	font-family: Verdana;
+	font-family: sans-serif;
 	text-align: center;
 	margin-top: 85px;
 	font-size: 25px;
+	padding: 10px;
 
 }
